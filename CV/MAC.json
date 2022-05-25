@@ -59,6 +59,50 @@
       {
         "name": "Spanish"
       }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Xamarin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      }
     ]
   },
   "careerPreferences": {
