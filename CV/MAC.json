@@ -45,16 +45,6 @@
       }
     ]
   },
-  "knowledge": {
-    "languages": [
-      {
-        "name": "English"
-      },
-      {
-        "name": "Spanish"
-      }
-    ]
-  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
