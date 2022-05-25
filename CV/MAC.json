@@ -27,6 +27,12 @@
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/raulgeu"
       }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Father of two kids",
+        "fact": "Leo and Noa are my main motivation. To improve as a persona to make this world a little better that what we where given."
+      }
     ]
   },
   "experience": {
@@ -42,6 +48,16 @@
             "startDate": "2021-04-01"
           }
         ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
       }
     ]
   },
